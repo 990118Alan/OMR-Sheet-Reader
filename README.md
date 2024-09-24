@@ -1,5 +1,6 @@
 # OMR Sheet Reader
-讀取OMR文件上的資料
-
+幫助讀取OMR答案卡上的資料
 ## 如何使用
-![sample_input](https://github.com/990118Alan/OMR-Sheet-Reader/blob/main/Sample_Input.jpg)
+<img src="https://github.com/user-attachments/assets/9d52e7b0-d853-4086-8431-41cdac4152c6" width=50% height=50%>
+
+## 執行過程
