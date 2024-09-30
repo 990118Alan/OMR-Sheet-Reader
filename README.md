@@ -1,7 +1,10 @@
 # OMR Sheet Reader
-幫助讀取OMR答案卡上的資料
+將含有OMR答案卡的圖片矯正，之後讀取OMR答案卡上的資料
 ## 如何使用
 命令列接受兩個參數，第一個為輸入的圖片位置，第二個為輸出的檔案位置
+
+圖片範例如下
+
 <img src="https://github.com/user-attachments/assets/9d52e7b0-d853-4086-8431-41cdac4152c6" width=50% height=50%>
 
 ## 執行過程
