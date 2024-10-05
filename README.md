@@ -1,13 +1,18 @@
 # OMR Sheet Reader
-將含有OMR答案卡的圖片矯正，之後讀取OMR答案卡上的資料
-## 如何使用
+## 什麼是OMR
+
+OMR為光學劃記符號辨識(Optical mark recognition)之簡寫，透過把光束打在文件上並使用黑白對比來辨識上面的記號
+
+## 🚩如何使用
 命令列接受兩個參數，第一個為輸入的圖片位置，第二個為輸出的檔案位置
 
 圖片範例如下
 
 <img src="https://github.com/user-attachments/assets/9d52e7b0-d853-4086-8431-41cdac4152c6" width=50% height=50%>
 
-## 執行過程
+## 🚩執行過程
+將含有OMR答案卡的圖片矯正，之後讀取OMR答案卡上的資料
+
 <img src="https://github.com/user-attachments/assets/3031051d-0f43-4ad9-a197-26df78230b4c" width=50% height=50%>
 
 抓取四個定位點->校正透視變形-> 抓取左側填答區定位點->將答案輸出至txt
